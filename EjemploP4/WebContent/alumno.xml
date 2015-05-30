@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos cantidad="2">
+	<alumno boleta="2014630563" nombre="Didier" appaterno="Gomez"
+		apmaterno="Lemus">
+		<direccion calle="Calle sin numero" numero="Sin numero"
+			colonia="Sin colonia"
+			estado="México">
+		</direccion>
+		<materias>
+			<materia nombre="POO" clave="OOP" calificacion="10"></materia>
+			<materia nombre="Probabilidad" clave= "PyE" calificacion="8"></materia>
+			
+		</materias>
+		<observaciones >Este alumno se porta bien 
+		:)
+		
+		</observaciones>
+	</alumno>
+</alumnos>
